@@ -1,0 +1,6 @@
+Flask==0.10.1
+pycurl==7.19.5
+beautifulsoup4==4.6.0
+certifi==2018.4.16
+requests==2.11.1
+gunicorn==19.9.0
